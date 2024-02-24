@@ -1,0 +1,3 @@
+interface Album {
+    void displayAlbumInfo();
+}

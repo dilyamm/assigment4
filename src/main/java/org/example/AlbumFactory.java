@@ -1,0 +1,3 @@
+interface AlbumFactory {
+    Album createAlbum();
+}
